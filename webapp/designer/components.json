@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "VSPlugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": false,
+			"name": "shoubii.custom.plugins.VSPlugin.VSPlugin",
+			"propertyEditor": "shoubii.custom.plugins.VSPlugin.VSPlugin.builder.PropertyEditor",
+			"i18n": "shoubii.custom.plugins.VSPlugin.VSPlugin.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "VSPlugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER"]
+		}   
+	]
+}
